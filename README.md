@@ -1,4 +1,4 @@
-## `FETCH_NSE` is an example of web scraping which collects data from option chain [API](https://www.nseindia.com/option-chain "Nifty Option Chain") of ***NATIONAL STOCK EXCHANGE OF INDIA***.
+## `FETCH_NSE` is a web scraping example which tries to collects data from option chain [API](https://www.nseindia.com/option-chain "Nifty Option Chain") of ***NATIONAL STOCK EXCHANGE OF INDIA***.
 
 ### Download :
 

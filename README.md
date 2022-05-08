@@ -3,11 +3,11 @@
 ### Download :
 
 ```bash
-git clone
+git clone https://github.com/qubiit/fetch_nse.git
 cd fetch_nse
 python -m venv .venv
 source .venv/bin/activate #on linux
-pip install -r requirement.txt
+pip install -r requirements.txt
 python fetch_nse.py
 ```
 
